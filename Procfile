@@ -1,1 +1,1 @@
-worker: python kenkan.py
+web: python kenkan.py
